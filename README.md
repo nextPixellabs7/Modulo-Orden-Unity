@@ -8,3 +8,17 @@ Scripts importantes
 - DragAndDrop
 - ActivityController
 - ActivityUI
+
+# Modulo_Escucho_Y_Encuentro
+Modulo de la actividad "Escucho y encuentro ", actividad de "Escuchar el audio 2 veces y luego reconocer a que palabra corresponde entre 3 opciones"
+
+Asset incluido - ninguno
+
+Scenes - EscucharYordenar
+Scripts
+- EscuchoYEncuentroManager
+- OpcionBoton
+- BotonSonido
+Sprites
+- Imagen de volumen
+
